@@ -3,8 +3,10 @@ class random {
 
     int a = 1;
     int b = 2;
-  ind d = 4;
-    int c = a + b;
+  int d = 4;
+  int e = 6;
+  
+    int c = a + b + d + e;
 System.out.println(c);
     
  }
